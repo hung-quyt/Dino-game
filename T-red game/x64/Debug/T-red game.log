@@ -1,0 +1,4 @@
+﻿  T-red game.cpp
+d:\code c++\t-red game\t-red game\mylib.h(27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\code c++\t-red game\t-red game\t-red game.cpp(98): warning C4309: '=': truncation of constant value
+  T-red game.vcxproj -> D:\code C++\T-red game\x64\Debug\T-red game.exe

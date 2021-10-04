@@ -1,0 +1,5 @@
+﻿  T-red game.cpp
+d:\code c++\t-red game\t-red game\mylib.h(27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\code c++\t-red game\t-red game\t-red game.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code c++\t-red game\t-red game\t-red game.cpp(139): warning C4309: '=': truncation of constant value
+  T-red game.vcxproj -> D:\code C++\T-red game\Debug\T-red game.exe
